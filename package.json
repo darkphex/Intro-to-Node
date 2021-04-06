@@ -1,0 +1,19 @@
+{
+  "name": "absolute-beginner",
+  "version": "14.16.0",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkphex/Intro-to-Node.git"
+  },
+  "author": "Patrick U.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkphex/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/darkphex/Intro-to-Node#readme"
+}
